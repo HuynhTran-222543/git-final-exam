@@ -1,0 +1,6 @@
+Mô tả tính năng mới (>=5 dòng)
+- Thêm
+- Sửa
+- Xoá
+- Xem
+- Truy cập
